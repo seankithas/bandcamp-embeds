@@ -29,11 +29,11 @@
   <!-- Track 1: Providence -->
   <iframe src="https://seankithas.bandcamp.com/track/providence" seamless></iframe>
 
-  <!-- Track 2: Replace YOUR_TRACK_ID_2 with your next Bandcamp track ID -->
-  <iframe src="https://bandcamp.com" seamless></iframe>
+  <!-- Track 2: Invoke, Dream -->
+  <iframe src="https://seankithas.bandcamp.com/track/invoke-dream" seamless></iframe>
 
-  <!-- Track 3: Replace YOUR_TRACK_ID_3 with your next Bandcamp track ID -->
-  <iframe src="https://bandcamp.com" seamless></iframe>
+  <!-- Track 3: Walk Away -->
+  <iframe src="https://seankithas.bandcamp.com/track/walk-away" seamless></iframe>
 
 </body>
 </html>
