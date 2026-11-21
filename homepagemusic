@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: transparent;
+      display: flex;
+      flex-direction: column;
+      gap: 8px; /* Space between each track bar */
+      overflow-x: hidden;
+    }
+    iframe {
+      border: 0;
+      width: 100%;
+      height: 42px;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Track 1: Providence -->
+  <iframe src="https://seankithas.bandcamp.com/track/providence" seamless></iframe>
+
+  <!-- Track 2: Replace YOUR_TRACK_ID_2 with your next Bandcamp track ID -->
+  <iframe src="https://bandcamp.com" seamless></iframe>
+
+  <!-- Track 3: Replace YOUR_TRACK_ID_3 with your next Bandcamp track ID -->
+  <iframe src="https://bandcamp.com" seamless></iframe>
+
+</body>
+</html>
